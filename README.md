@@ -12,7 +12,7 @@ Both (call and apply) are using to call a functions.
 
 Here is an advantage over apply and call. The .call() method is little bit faster than .apply() method.
 
-```javascript
+```html
 <!DOCTYPE html>
 <html>
 <head>
