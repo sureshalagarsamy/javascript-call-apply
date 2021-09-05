@@ -2,7 +2,7 @@
 
 > CALL
 
-Call a function with the specified arguments. You can use call, if you know how many argument are going to pass to the functions.
+Call a function with the <b>specified arguments</b>. You can use call, if you know how many argument are going to pass to the functions.
 
 >APPLY
 
